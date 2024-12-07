@@ -1,0 +1,16 @@
+{
+  "name": "element",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+
+      "element": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "$path": "src"
+      }
+    }
+  }
+}
